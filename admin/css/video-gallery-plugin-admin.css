@@ -1,0 +1,32 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ html {
+ 	overflow-y:scroll;
+ }
+ .video-gallery-plugin {
+ 	margin:20px;
+ }
+
+ .video-gallery-plugin ul{
+ 	margin-left:20px;
+ }
+
+ .welcome-panel{
+ 	margin: 0px;
+ 	padding: 10px;
+ }
+
+ input[type="text"], textarea {
+ 	width: 70%;
+ }
+
+ .form-table label{
+ 	font-weight:bold;
+ }
+
+ .exp{
+ 	font-size:12px;
+ }
